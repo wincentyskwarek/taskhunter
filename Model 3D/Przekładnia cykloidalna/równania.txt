@@ -1,0 +1,2 @@
+x(t)=(R*cos(t))-(Rr*cos(t+atan(sin((1-N1)*t)/((R/(E1*N1))-cos((1-N1)*t)))))-(E1*cos(N1*t))
+y(t)=(-R*sin(t))+(Rr*sin(t+atan(sin((1-N1)*t)/((R/(E1*N1))-cos((1-N1)*t)))))+(E1*sin(N1*t))
